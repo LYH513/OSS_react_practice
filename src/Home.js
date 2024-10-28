@@ -4,7 +4,7 @@ function Home(){
 
   return(
     <div>
-      하이
+      하이 변경
     </div>
   );
 }
